@@ -1,0 +1,11 @@
+<mvc:View
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m"
+        controllerName="zwarehousetransfer.controller.App"
+        displayBlock="true">
+	<Page backgroundDesign="Solid">
+		<content>
+
+		</content>
+	</Page>
+</mvc:View>
